@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
-import NavBar from './ui/NavBar'
+import NavBar from './ui/NavBar';
+import SideMenu from './ui/SideMenu';
+import Home from './container/Home';
 //import './css/pure-min.css';
 //import './css/side-menu.css';
 
@@ -9,6 +11,8 @@ function App() {
 
     <div className="container">
       <NavBar />
+      <SideMenu />
+      <Home />
     </div>
   );
 }
