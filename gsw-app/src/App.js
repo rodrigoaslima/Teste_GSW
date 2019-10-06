@@ -11,8 +11,7 @@ function App() {
 
     <div className="container">
       <NavBar />
-      <SideMenu />
-      <Home />
+      <SideMenu />     
     </div>
   );
 }
