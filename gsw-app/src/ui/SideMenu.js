@@ -8,8 +8,8 @@ import { faCog, faPowerOff, faClock, faUser, faProjectDiagram, faHome, faAddress
 const SideMenu = () =>{
     return (
         <div className="container">
-    		<div className="row profile">
-				<div className="col-md-3">
+    		<div className="row profile" style={{marginLeft:'-1.6875rem'}}>
+				<div className="col-md-3" style={{display:'flex'}}>
 					<div className="profile-sidebar">
                 		<div className="row">
                 
