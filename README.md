@@ -1,12 +1,23 @@
-Pagina de Dashboard feito em React
+# Tela de Dashboar em React
 
-Essa pagina foi meu primeiro contato com React e foi criado especialmente para o teste da empresa GSW
+Esse foi meu primeiro contato com React. Utilizado para criar uma tela de dashboard para o testa da empresa GSW utilizando React, Bootstrap, css, html e Font Awesome para icones
 
-Utilizando rect, html, css e bootstrap no projeto, além de Font Awesome para os icones.
+## Getting Started
 
-Para rodar o projeto basta ter o react e executar o comando npm start
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+### Prerequisites
 
-Caso os icones não apareçam, basta executar o comando para instalar o Font Awesome
+Para rodar o projeto é necessario o react instalado.
+Caso ele esteja instalado basta executar o comando no terminal:
 
+```
+npm start
+```
+Caso os icones não apareçam, sera necessario a instalar do font awesome
 
+```
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/react-fontawesome
+```
