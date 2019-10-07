@@ -109,3 +109,45 @@ body {
   li{
     padding-top: 3px;
   }
+
+  .tanby{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #d06060;
+    color: white;
+    text-align: center;
+    margin-right: -11px;
+  }
+
+  .embraer{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #526ee4;
+    color: white;
+    text-align: center;
+    margin-right: -11px;
+  }
+
+  .petrobras{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #ef8638;
+    color: white;
+    text-align: center;
+    margin-right: -11px;
+  }
+
+  .detalhes{
+    display: initial;
+    font-size: 13px;
+  }
+
+  .card{
+    margin-bottom: 20px;
+  }
